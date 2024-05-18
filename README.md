@@ -26,8 +26,8 @@ Open the other Python files and Program the movements of the robot using python
 
 ## Program
 ```
-# Name : KARUNIYA M
-# Reg no: 212223240068
+# Name : KEERTHIKA M P
+# Reg no: 212223240071
 from robomaster import robot
 import time
 if __name__ == '__main__':
